@@ -28,4 +28,4 @@ Se aplicó CSS Grid (`display: grid`) en la sección de la cuadrícula de produc
 Se utilizaron Media Queries (`@media (max-width: 768px)`) para garantizar que la página sea adaptable. El cambio más importante ocurre en la cuadrícula de productos, que pasa de dos columnas a una sola columna en pantallas de dispositivos móviles.
 
 ## 8. Dificultades Encontradas
-(Aquí puedes escribir con tus propias palabras qué parte te costó más, por ejemplo: ajustar los tamaños exactos de las imágenes o hacer que el footer no se desbordara en la vista móvil).
+La parte mas complicada fue poderlo hacer en la situacion que estaba, se que no es nada con fin tecnico, pero me toco hacerlo en medio del fallecimiento de mi padre. Fue mas esfuerxo emocional que creativo.
